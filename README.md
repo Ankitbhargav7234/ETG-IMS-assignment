@@ -23,6 +23,6 @@ The items in the inventory is stored in the form of a dictonary in the JOSN file
 Ankit Bhargav
 Oriental College of Technology, Bhopal
 
-## contact
+## Contact
 Email: ankitbhargav7234@gmail.com
 linkedIn: https://www.linkedin.com/in/ankit-bhargav-038996198/
